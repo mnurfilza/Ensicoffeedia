@@ -1,0 +1,60 @@
+.navbar .navbar-brand{
+    margin-top: -10%;
+    padding-top: 0%;
+    padding-bottom: 15%;
+    padding-left: 0%;
+    font-size: 20px;
+    background-color: transparent;
+    color: snow;
+    font-size: 155%;
+}
+.background{
+    background-image: url('../img/jumbo.jpg');
+    background-size: cover;
+    background-position: 50%;
+    padding: 4%;
+    margin:auto;
+}
+
+.jumbotron{
+    background: transparent;
+    color: snow;
+}
+
+.btn-modif{
+    color: #ffffff; 
+    background-color:transparent; 
+    border-color:snow;
+    padding: 0.4rem 2rem;
+    font-size: 20px;
+}
+
+.btn-modif:hover{
+    border-color: gray;
+    background-color: gray;
+    color: white;
+}
+.quote{
+    padding-top: 7%;
+    padding-bottom: 7%;
+    font-size: 25px;
+}
+.information{
+    padding-top: 15%;
+}
+.jumbo{
+        background:#995f15;
+}
+.no-gutters {
+    margin-right: 0;
+    margin-left: 0;
+}
+.bg-black {
+    background-color: #000!important;
+}
+.pb-5, .py-5 {
+    padding-bottom: 3rem!important;
+}
+.pt-5, .py-5 {
+    padding-top: 3rem!important;
+}

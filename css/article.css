@@ -1,0 +1,11 @@
+body{
+    margin: 0;
+}
+.no-gutters {
+    margin-right: 0;
+    margin-left: 0;
+}
+
+.breadcrumb-post {
+    margin-top: 84px;
+}
